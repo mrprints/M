@@ -1,36 +1,15 @@
-- [academia](https://www.reddit.com/user/befoul/m/academia)
-- [anticonsumption_decluttering](https://www.reddit.com/user/befoul/m/anticonsumption_decluttering)
-- [cambridge_boston_ma](https://www.reddit.com/user/befoul/m/cambridge_boston_ma)
-- [consumption_clutter](https://www.reddit.com/user/befoul/m/consumption_clutter)
-- [corgs](https://www.reddit.com/user/befoul/m/corgs)
-- [custom_feed_guides_manuals](https://www.reddit.com/user/befoul/m/custom_feed_guides_manuals)
-- [custom_feed_video_subreddits](https://www.reddit.com/user/befoul/m/custom_feed_video_subreddits)
-- [custom_feeds_music_discussion](https://www.reddit.com/user/befoul/m/custom_feeds_music_discussion)
-- [devices_automation](https://www.reddit.com/user/befoul/m/devices_automation)
-- [finance_n_investment](https://www.reddit.com/user/befoul/m/finance_n_investment)
-- [food_and_fitness](https://www.reddit.com/user/befoul/m/food_and_fitness)
-- [happy_place](https://www.reddit.com/user/befoul/m/happy_place)
-- [job_help_opportunities](https://www.reddit.com/user/befoul/m/job_help_opportunities)
-- [lists](https://www.reddit.com/user/befoul/m/lists)
-- [lol_wat](https://www.reddit.com/user/befoul/m/lol_wat)
-- [mindless_entertainment](https://www.reddit.com/user/befoul/m/mindless_entertainment)
-- [music_academic](https://www.reddit.com/user/befoul/m/music_academic)
-- [music_critical_listening](https://www.reddit.com/user/befoul/m/music_critical_listening)
-- [music_pleasure_listening](https://www.reddit.com/user/befoul/m/music_pleasure_listening)
-- [music_strictly_production](https://www.reddit.com/user/befoul/m/music_strictly_production)
-- [professional_tech_skills](https://www.reddit.com/user/befoul/m/professional_tech_skills)
-- [programming_etc](https://www.reddit.com/user/befoul/m/programming_etc)
-- [raspi](https://www.reddit.com/user/befoul/m/raspi)
-- [selfimprovement_mindfulness](https://www.reddit.com/user/befoul/m/selfimprovement_mindfulness)
-- [sports_fantasy_nonfantasy](https://www.reddit.com/user/befoul/m/sports_fantasy_nonfantasy)
-- [steals_deals](https://www.reddit.com/user/befoul/m/steals_deals)
-- [strictly_games_entertainment](https://www.reddit.com/user/befoul/m/strictly_games_entertainment)
-- [striking_visuals_collab](https://www.reddit.com/user/befoul/m/striking_visuals_collab)
-- [striking_visuals_collab_fodder](https://www.reddit.com/user/befoul/m/striking_visuals_collab_fodder)
-- [tech_news_discussion](https://www.reddit.com/user/befoul/m/tech_news_discussion)
-- [visual_art](https://www.reddit.com/user/befoul/m/visual_art)
-- [when_i_need_tech_support](https://www.reddit.com/user/befoul/m/when_i_need_tech_support)
-- [world_improvement_worldliness](https://www.reddit.com/user/befoul/m/world_improvement_worldliness)
+| URLs | URLs | URLs |
+| - [academia](https://www.reddit.com/user/befoul/m/academia) | - [happy_place](https://www.reddit.com/user/befoul/m/happy_place) | - [raspi](https://www.reddit.com/user/befoul/m/raspi)
+| - [anticonsumption_decluttering](https://www.reddit.com/user/befoul/m/anticonsumption_decluttering) | - [job_help_opportunities](https://www.reddit.com/user/befoul/m/job_help_opportunities) | - [selfimprovement_mindfulness](https://www.reddit.com/user/befoul/m/selfimprovement_mindfulness)
+| - [cambridge_boston_ma](https://www.reddit.com/user/befoul/m/cambridge_boston_ma) | - [lists](https://www.reddit.com/user/befoul/m/lists) | - [sports_fantasy_nonfantasy](https://www.reddit.com/user/befoul/m/sports_fantasy_nonfantasy)
+| - [consumption_clutter](https://www.reddit.com/user/befoul/m/consumption_clutter) | - [lol_wat](https://www.reddit.com/user/befoul/m/lol_wat) | - [steals_deals](https://www.reddit.com/user/befoul/m/steals_deals)
+| - [corgs](https://www.reddit.com/user/befoul/m/corgs) | - [mindless_entertainment](https://www.reddit.com/user/befoul/m/mindless_entertainment) | - [strictly_games_entertainment](https://www.reddit.com/user/befoul/m/strictly_games_entertainment)
+| - [custom_feed_guides_manuals](https://www.reddit.com/user/befoul/m/custom_feed_guides_manuals) | - [music_academic](https://www.reddit.com/user/befoul/m/music_academic) | - [striking_visuals_collab](https://www.reddit.com/user/befoul/m/striking_visuals_collab)
+| - [custom_feed_video_subreddits](https://www.reddit.com/user/befoul/m/custom_feed_video_subreddits) | - [music_critical_listening](https://www.reddit.com/user/befoul/m/music_critical_listening) | - [striking_visuals_collab_fodder](https://www.reddit.com/user/befoul/m/striking_visuals_collab_fodder)
+| - [custom_feeds_music_discussion](https://www.reddit.com/user/befoul/m/custom_feeds_music_discussion) | - [music_pleasure_listening](https://www.reddit.com/user/befoul/m/music_pleasure_listening) | - [tech_news_discussion](https://www.reddit.com/user/befoul/m/tech_news_discussion)
+| - [devices_automation](https://www.reddit.com/user/befoul/m/devices_automation) | - [music_strictly_production](https://www.reddit.com/user/befoul/m/music_strictly_production) | - [visual_art](https://www.reddit.com/user/befoul/m/visual_art)
+| - [finance_n_investment](https://www.reddit.com/user/befoul/m/finance_n_investment) | - [professional_tech_skills](https://www.reddit.com/user/befoul/m/professional_tech_skills) | - [when_i_need_tech_support](https://www.reddit.com/user/befoul/m/when_i_need_tech_support)
+| - [food_and_fitness](https://www.reddit.com/user/befoul/m/food_and_fitness) | - [programming_etc](https://www.reddit.com/user/befoul/m/programming_etc) | - [world_improvement_worldliness](https://www.reddit.com/user/befoul/m/world_improvement_worldliness)
 
 You can use the [editor on GitHub](https://github.com/mrprints/multireddits/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
@@ -56,6 +35,14 @@ Syntax highlighted code block
 **Bold** and _Italic_ and `Code` text
 
 [Link](url) and ![Image](src)
+
+
+| Header 1     | Header 2    | Header 3      |
+----------------------------------------------
+| Row 1 Col 1  | Row 1 Col 2 | Row 1 Col 3   |
+|:Left-aligned |:Centered   :| Right-aligned:|
+|              | ← Blank   → |               |
+| Row 4 Col 1  | Row 4 Col 2 | Row 4 Col 3   |
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
