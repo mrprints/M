@@ -1,4 +1,7 @@
-@import "";
+---
+---
+
+@import "{{ site.theme }}";
 html,
 body {height:100%;}
 html {display:table; width:100%;}
