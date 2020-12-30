@@ -1,4 +1,3 @@
-<p align="center">
 | [academia](https://www.reddit.com/user/befoul/m/academia) | [music_academic](https://www.reddit.com/user/befoul/m/music_academic)
 | [anticonsumption_decluttering](https://www.reddit.com/user/befoul/m/anticonsumption_decluttering) | [music_critical_listening](https://www.reddit.com/user/befoul/m/music_critical_listening)
 | [cambridge_boston_ma](https://www.reddit.com/user/befoul/m/cambridge_boston_ma) | [music_pleasure_listening](https://www.reddit.com/user/befoul/m/music_pleasure_listening)
@@ -16,4 +15,3 @@
 | [lol_wat](https://www.reddit.com/user/befoul/m/lol_wat) | [visual_art](https://www.reddit.com/user/befoul/m/visual_art)
 | [mindless_entertainment](https://www.reddit.com/user/befoul/m/mindless_entertainment) | [when_i_need_tech_support](https://www.reddit.com/user/befoul/m/when_i_need_tech_support)
 | [world_improvement_worldliness](https://www.reddit.com/user/befoul/m/world_improvement_worldliness) | |
-</p>
